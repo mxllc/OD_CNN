@@ -1,0 +1,2 @@
+model_checkpoint_path: "od-0"
+all_model_checkpoint_paths: "od-0"
